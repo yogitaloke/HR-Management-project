@@ -1,0 +1,4 @@
+com\restro\entity\Restaurant.class
+com\restro\RestroAppApplication.class
+com\restro\controller\RestaurantController.class
+com\restro\repository\RestaurantRepository.class
